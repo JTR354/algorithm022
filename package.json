@@ -1,0 +1,26 @@
+{
+  "name": "algorithm022",
+  "version": "1.0.0",
+  "description": "1. `week01/` 代表第一周作业提交目录，以此类推。\r 2. 请在对应周的目录下新建或修改自己的代码作业。\r 2. 每周均有一个 `README.md` 文档，你可以将自己当周的学习心得以及做题过程中的思考记录在该文档中。",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTR354/algorithm022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTR354/algorithm022/issues"
+  },
+  "homepage": "https://github.com/JTR354/algorithm022#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
