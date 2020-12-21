@@ -17,7 +17,6 @@
 在线用户的量单位是万，具体是 [1, 100] 的整数。
 */
 
-
 /**
  * input: number[]
  * output: number[]
@@ -27,34 +26,21 @@ function dailyTemperatures(T) {
   1. 迭代 两层循环 O(n)
   2. 栈
   */
-//  const result = []
-//  for (let i = 0; i < T.length - 1; i++) {
-//    for (let j = i + 1; j < T.length; j++) {
-//      if (T[j] > T[i]) {
-//        result.push(j - i)
-//        break
-//      } else if (j === T.length - 1){
-//        result.push(0)
-//      }
-//    }
-//  }
-//  result.push(0)
-//  return result
-  const stack = []
-  const result = []
-  let j = 0
-  for (let i = 0 ; i < T.length; i ++) {
-    while(stack.length && stack[stack.length - 1] < T[i]) {
-      stack.pop()
-      result.push(j)
-      j = 0
+  const result = [];
+  for (let i = 0; i < T.length - 1; i++) {
+    for (let j = i + 1; j < T.length; j++) {
+      if (T[j] > T[i]) {
+        result.push(j - i);
+        break;
+      } else if (j === T.length - 1) {
+        result.push(0);
+      }
     }
-    stack.push(T[i])
-    j++
   }
-  return result.concat(new Array(stack.length).fill(0))
+  result.push(0);
+  return result;
 }
 
 module.exports = {
-  dailyTemperatures
-}
+  dailyTemperatures,
+};
