@@ -19,3 +19,42 @@
 ## 注意事项
 
  如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+
+## methodology
+
+- 切题四件套
+  - 明确题意
+  - 思考所有解法, 比较时空复杂度,找到最优解
+  - 写代码
+  - 测试
+
+- 五毒神掌
+  - 第一遍
+    - 5分钟读题 + 思考
+    - 超时直接看解法(多解),比较优劣
+    - 背诵默写好的解法
+  - 第二遍
+    - 自己写 --> leecode 提交
+    - 每种解法都要写一遍, 体会优劣
+  - 第三遍
+    - 过了一天后, 重复昨天的题目
+    - 对不熟悉的解法进行专项训练
+  - 第四遍
+    - 过了一周后,重复"第三篇"的行为
+  - 第五遍
+    - 面试前,再做一遍
+
+## my logs
+
+- [JTR · 算法22期 · 五毒神掌练习](https://shimo.im/sheets/AmMeqRoSD9Yodkqz/MODOC/)
+
+## template
+
+```txt
+# for homework
+#学号:G20200447010216
+#语言:JavaScript
+#作业链接:https://github.com/JTR354/algorithm022/tree/main/Week_01
+```
+
+- [《代码模板目录》](https://shimo.im/docs/jqrCJCdkyvwWJyh6/)
