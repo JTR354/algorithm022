@@ -58,3 +58,7 @@
 ```
 
 - [《代码模板目录》](https://shimo.im/docs/jqrCJCdkyvwWJyh6/)
+
+- [*五毒题目表格作业表格](https://shimo.im/sheets/sYg4wMEgBdUAKeDJ/gLbW7/)
+
+- [*作业助教批改情况](https://shimo.im/sheets/CD6xgrzMRro7h0Iv/qBRdH/)
