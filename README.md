@@ -62,3 +62,7 @@
 - [*五毒题目表格作业表格](https://shimo.im/sheets/sYg4wMEgBdUAKeDJ/gLbW7/)
 
 - [*作业助教批改情况](https://shimo.im/sheets/CD6xgrzMRro7h0Iv/qBRdH/)
+
+- [*算法训练营社区分享汇总](https://shimo.im/docs/6TVTHH3y6C8kG3tx/read)
+
+- [期中成绩](https://shimo.im/sheets/RdHGcpdK8KKjh6Cd/MODOC)
