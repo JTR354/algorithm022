@@ -61,8 +61,12 @@
 
 - [*五毒题目表格作业表格](https://shimo.im/sheets/sYg4wMEgBdUAKeDJ/gLbW7/)
 
+- [每周学习情况更新：](https://shimo.im/sheets/3ZgewbYJpKkI5xTB/MODOC/)
+
 - [*作业助教批改情况](https://shimo.im/sheets/CD6xgrzMRro7h0Iv/qBRdH/)
 
 - [*算法训练营社区分享汇总](https://shimo.im/docs/6TVTHH3y6C8kG3tx/read)
 
-- [期中成绩](https://shimo.im/sheets/RdHGcpdK8KKjh6Cd/MODOC)
+- [《算法22期期中成绩+错题详情》](https://shimo.im/sheets/RdHGcpdK8KKjh6Cd/MODOC)
+
+- [《极客大学算法训练营-期中考试题》](https://shimo.im/docs/69uDNhxTzjADzqwQ/)
